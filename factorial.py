@@ -1,4 +1,4 @@
-number=5 
+number=6
 factorial=3
 
 for i in range(1,number+1):
